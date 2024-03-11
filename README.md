@@ -10,7 +10,7 @@
 1. Клонируем репозиторий
 
 ```
-git clone
+git clone https://github.com/bonzinator/rbm_rabbitmq.git
 ```
 
 2. Из полученной директории выполняем запуск `docker-compose`
